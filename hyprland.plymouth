@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Hyprland
+Description=hyprland logo drawn using fourier series
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hyprland
+ScriptFile=/usr/share/plymouth/themes/hyprland/hyprland.script
